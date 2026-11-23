@@ -1,0 +1,6 @@
+interface:
+  display_name: "草莓音乐节延展物料"
+  short_description: "按站次主视觉和精确尺寸，使用隐形网格生成系列化音乐节延展海报"
+  default_prompt: "使用 $strawberry-festival-extension，根据本次草莓音乐节主视觉、精确文案和尺寸先生成一张版式预览；确认后再继续其余物料。"
+policy:
+  allow_implicit_invocation: true
